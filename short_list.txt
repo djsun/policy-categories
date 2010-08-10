@@ -1,7 +1,6 @@
 Agriculture
 Arts
 Banking
-Births, Deaths, Marriages, and Divorces
 Budget
 Business
 Campaign Finance
