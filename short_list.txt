@@ -5,7 +5,7 @@ Business
 Campaign Finance
 Children
 Civil Rights & Liberties
-Climate
+Climate / Environment
 Communications / Information
 Construction
 Crime / Law Enforcement
@@ -17,7 +17,6 @@ Education
 Elections
 Employment
 Energy / Natural Resources
-Environment
 Families
 Foreign Commerce
 Foreign Policy
