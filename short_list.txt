@@ -26,7 +26,6 @@ Health / Nutrition
 Housing / Urban
 Human Services
 Immigration
-Innovation
 Insurance
 International Development / Foreign Aid
 Internet
@@ -45,7 +44,7 @@ Regulatory
 Science & Technology
 Social Insurance
 Social Policy
-Stimulus / Economic Development
+Stimulus / Economic Development / Innovation
 Taxes / Budget
 Telecom
 Trade
