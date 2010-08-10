@@ -32,7 +32,7 @@ Foreign Policy
 Geography
 Global Economy
 Governance
-Health
+Health / Nutrition
 Housing
 Human Services
 Immigration
@@ -50,7 +50,6 @@ Monetary Policy
 Municipal
 National Security
 Natural Resources
-Nutrition
 Philanthropy
 Politics
 Population
