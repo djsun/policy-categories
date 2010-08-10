@@ -1,6 +1,6 @@
 Agriculture
 Arts
-Banking
+Banking / Finance / Fiscal Policy
 Budget
 Business
 Campaign Finance
@@ -23,8 +23,6 @@ Energy
 Environment
 Expenditures
 Families
-Finance
-Fiscal Policy
 Foreign Commerce
 Foreign Policy
 Geography
