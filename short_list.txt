@@ -54,7 +54,6 @@ Telecom
 Trade
 Transportation
 Travel
-Urban
 Utilities
 Veterans Affairs
 Wealth
