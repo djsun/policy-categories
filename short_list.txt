@@ -9,7 +9,7 @@ Civil Rights & Liberties
 Climate
 Communications
 Construction
-Courts
+Law / Courts
 Crime / Law Enforcement
 Demographics
 Development
@@ -41,7 +41,6 @@ Insurance
 International Development / Foreign Aid
 Internet
 Labor
-Law
 Licensing Data
 Metropolitan
 Monetary Policy
