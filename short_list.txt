@@ -10,7 +10,6 @@ Communications / Information
 Construction
 Crime / Law Enforcement
 Demographics
-Stimulus / Economic Development
 Economic Data
 Economic Studies
 Education
@@ -46,6 +45,7 @@ Regulatory
 Science & Technology
 Social Insurance
 Social Policy
+Stimulus / Economic Development
 Taxes / Budget
 Telecom
 Trade
