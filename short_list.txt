@@ -10,7 +10,7 @@ Climate
 Communications
 Construction
 Courts
-Crime
+Crime / Law Enforcement
 Demographics
 Development
 Earnings
@@ -44,7 +44,6 @@ International Development
 Internet
 Labor
 Law
-Law Enforcement
 Licensing Data
 Metropolitan
 Monetary Policy
