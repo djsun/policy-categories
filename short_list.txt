@@ -2,7 +2,6 @@ Agriculture
 Arts
 Banking / Finance / Fiscal Policy
 Business
-Campaign Finance
 Children
 Civil Rights & Liberties
 Climate / Environment
@@ -13,7 +12,7 @@ Demographics
 Economic Data
 Economic Studies
 Education
-Elections
+Elections / Politics / Campaign Finance
 Employment
 Energy / Natural Resources
 Families
@@ -36,7 +35,6 @@ Monetary Policy
 Municipal
 National Security
 Philanthropy
-Politics
 Poverty
 Prices
 Public Safety
