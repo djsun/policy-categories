@@ -42,7 +42,6 @@ Politics
 Poverty
 Prices
 Public Safety
-Recreation
 Regulatory
 Science & Technology
 Social Insurance
@@ -51,7 +50,7 @@ Taxes / Budget
 Telecom
 Trade
 Transportation
-Travel
+Travel / Recreation
 Utilities
 Veterans Affairs
 Wealth
