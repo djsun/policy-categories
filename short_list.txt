@@ -6,7 +6,7 @@ Campaign Finance
 Children
 Civil Rights & Liberties
 Climate
-Communications
+Communications / Information
 Construction
 Crime / Law Enforcement
 Demographics
@@ -28,7 +28,6 @@ Health / Nutrition
 Housing / Urban
 Human Services
 Immigration
-Information Policy
 Innovation
 Insurance
 International Development / Foreign Aid
