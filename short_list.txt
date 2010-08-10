@@ -1,7 +1,6 @@
 Agriculture
 Arts
 Banking / Finance / Fiscal Policy
-Budget
 Business
 Campaign Finance
 Children
@@ -53,7 +52,7 @@ Regulatory
 Science & Technology
 Social Insurance
 Social Policy
-Taxes
+Taxes / Budget
 Telecom
 Trade
 Transportation
