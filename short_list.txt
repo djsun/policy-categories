@@ -26,7 +26,6 @@ Expenditures
 Families
 Finance
 Fiscal Policy
-Foreign Aid
 Foreign Commerce
 Foreign Policy
 Geography
@@ -40,7 +39,7 @@ Income
 Information Policy
 Innovation
 Insurance
-International Development
+International Development / Foreign Aid
 Internet
 Labor
 Law
