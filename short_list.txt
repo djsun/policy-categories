@@ -9,7 +9,6 @@ Civil Rights & Liberties
 Climate
 Communications
 Construction
-Law / Courts
 Crime / Law Enforcement
 Demographics
 Development
@@ -19,7 +18,7 @@ Economic Studies
 Education
 Elections
 Employment
-Energy
+Energy / Natural Resources
 Environment
 Families
 Foreign Commerce
@@ -38,12 +37,12 @@ Insurance
 International Development / Foreign Aid
 Internet
 Labor
+Law / Courts
 Licensing Data
 Metropolitan
 Monetary Policy
 Municipal
 National Security
-Natural Resources
 Philanthropy
 Politics
 Population
