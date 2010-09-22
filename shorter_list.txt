@@ -11,7 +11,7 @@ Demographics
 Economics
 Education
 Elections / Politics / Campaign Finance
-Employment
+Employment / Labor
 Energy / Natural Resources
 Families
 Foreign Commerce / Foreign Policy
@@ -24,7 +24,6 @@ Immigration
 Insurance
 International Development / Foreign Aid
 Internet
-Labor
 Law / Courts
 Metropolitan
 Monetary Policy
