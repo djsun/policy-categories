@@ -9,7 +9,7 @@ Climate / Environment
 Communications / Information / Internet
 Crime / Law Enforcement
 Demographics
-Economics
+Economics / Monetary Policy
 Education
 Employment / Labor
 Energy / Natural Resources
@@ -22,7 +22,6 @@ Immigration
 Foreign Aid / International Development
 Law / Courts
 Metropolitan / Municipal
-Monetary Policy
 National Security
 Philanthropy
 Poverty / Welfare
