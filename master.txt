@@ -32,6 +32,7 @@ Foreign Aid
 Foreign Commerce
 Foreign Policy
 Geography
+Geospatial
 Global Economy
 Governance
 Health
