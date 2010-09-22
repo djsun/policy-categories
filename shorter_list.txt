@@ -6,7 +6,7 @@ Campaign Finance / Elections / Politics
 Children / Families / Human Services
 Civil Rights & Liberties
 Climate / Environment
-Communications / Information
+Communications / Information / Internet
 Crime / Law Enforcement
 Demographics
 Economics
@@ -20,7 +20,6 @@ Health / Nutrition
 Housing / Urban
 Immigration
 Insurance
-Internet
 Foreign Aid / International Development
 Law / Courts
 Metropolitan / Municipal
