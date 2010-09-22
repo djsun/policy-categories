@@ -34,7 +34,7 @@ Monetary Policy
 Municipal
 National Security
 Philanthropy
-Poverty
+Poverty / Welfare
 Public Safety
 Science & Technology
 Social Insurance
@@ -48,4 +48,3 @@ Travel / Recreation
 Utilities
 Veterans Affairs
 Wealth
-Welfare
