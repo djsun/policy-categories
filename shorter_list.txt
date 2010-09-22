@@ -1,6 +1,6 @@
 Agriculture
 Arts
-Banking / Finance / Fiscal Policy
+Banking / Insurance / Finance
 Business
 Campaign Finance / Elections / Politics
 Children / Families / Human Services
@@ -29,7 +29,7 @@ Poverty / Welfare
 Public Safety
 Science & Technology / Innovation
 Stimulus / Economic Development
-Taxes / Budget
+Budget / Fiscal Policy / Taxes
 Trade
 Transportation
 Travel / Recreation
