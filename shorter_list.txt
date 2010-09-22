@@ -2,7 +2,7 @@ Agriculture
 Arts
 Banking / Finance / Fiscal Policy
 Business
-Children / Human Services
+Children / Families / Human Services
 Civil Rights & Liberties
 Climate / Environment
 Communications / Information
@@ -13,7 +13,6 @@ Education
 Elections / Politics / Campaign Finance
 Employment / Labor
 Energy / Natural Resources
-Families
 Foreign Commerce / Foreign Policy
 Geography
 Governance
