@@ -2,6 +2,7 @@ Agriculture
 Arts
 Banking / Finance / Fiscal Policy
 Business
+Campaign Finance / Elections / Politics
 Children / Families / Human Services
 Civil Rights & Liberties
 Climate / Environment
@@ -10,7 +11,6 @@ Crime / Law Enforcement
 Demographics
 Economics
 Education
-Elections / Politics / Campaign Finance
 Employment / Labor
 Energy / Natural Resources
 Foreign Commerce / Foreign Policy
